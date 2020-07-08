@@ -8,25 +8,25 @@
         width: 600px;
 }
 a:link {
-  color: green;
+  color: white;
   background-color: transparent;
   text-decoration: none;
 }
 
 a:visited {
-  color: pink;
+  color: white;
   background-color: transparent;
   text-decoration: none;
 }
 
 a:hover {
-  color: red;
+  color: gray;
   background-color: transparent;
   text-decoration: underline;
 }
 
 a:active {
-  color: yellow;
+  color: gray;
   background-color: transparent;
   text-decoration: underline;
 }
