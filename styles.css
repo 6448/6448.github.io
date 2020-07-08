@@ -1,1 +1,9 @@
-
+      body { 
+  text-align: center;
+        background: black;
+        color: white; 
+         font-family: Verdana; 
+}
+      img {
+        width: 600px;
+      }
